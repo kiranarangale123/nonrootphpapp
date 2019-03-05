@@ -1,6 +1,6 @@
 <?php
 
-echo   "Hello world \n";
+echo   "Hello world , how are you? \n";
 
 
 ?>
